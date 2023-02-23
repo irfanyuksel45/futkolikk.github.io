@@ -1,0 +1,42 @@
+body{
+background-image: url("res/ark.png");
+}
+
+table{
+font-size: 15px;
+text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+color: blue;
+font-size: 20px;
+font-style: italic;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#kr{
+color: green;
+}
+
+#mv{
+color: darkblue;
+}
+
+#tr{
+color: orange;
+}
+
+#dusme{
+background-color: darkorange;
+}
+.logo{
+    position: fixed;
+    margin: 0px
+
+}
+div{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}

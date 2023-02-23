@@ -1,0 +1,99 @@
+body,html{
+background-image: url("res/denim.webp") !important;
+margin-top: 5px;
+}
+.container{
+width:1000px;
+height:auto;
+margin:auto;
+}
+header{
+width:1000px;
+height:100px;
+background-color:purple;
+}
+nav{
+width: 1000px;
+height:50px;
+margin-bottom: 5px;
+margin-top: 5px;
+background-color: green;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+        nav ul{
+            list-style-type: none;
+            margin: 0px;
+            padding: 0px;
+
+        }
+
+       
+        nav ul a {
+            text-decoration: none;
+            text-align: center;
+
+        }
+        nav ul a li{
+            width: 160.5px;
+            height: 44px;
+            display: block;
+            padding: 3px;
+            background-color: black;
+            float: left;
+            color: white;
+        }
+        nav ul a li:hover{
+            color: blue;
+            background-color: #FF0000;
+            transition-duration: 500ms;
+            display: block;
+        }
+
+section{
+    width:1000px;
+    height: auto;
+}
+article{
+    width:800px;
+    height: 600px;
+    background-color: lime;
+    margin-top: 5px;
+    float: left;
+}
+aside{
+    width: 195px;
+    height:600px;
+    background-color: rgb(223, 223, 103);
+    margin-top: 5px;
+    margin-left: 5px;
+    float:left;
+}
+footer{
+    width: 1000px;
+    height:100px;
+    background-color: darkorange;
+    margin-top: 5px;
+    float: left;
+    text-align: left;
+
+}
+
+    .Sondakika{
+    text-align: center;
+    font-size: 12.5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-top: 0px;
+    word-spacing: 0px;
+    font-style: italic;
+    
+    }
+
+    .logo{
+        position: fixed;
+        margin: 0px
+
+    }
+        .yz{
+        color: white;
+        }

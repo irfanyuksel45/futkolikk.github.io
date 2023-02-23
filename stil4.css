@@ -1,0 +1,21 @@
+body{
+background-color: aqua;
+}
+div{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+table{
+width: 800px;
+margin-top: 5px;
+font-size: 20px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+.logo{
+    position: fixed;
+    margin: 0px
+
+}

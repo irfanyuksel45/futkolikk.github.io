@@ -1,0 +1,58 @@
+body{
+background-image: url("res/dark.png");
+}
+
+div{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+h1{
+font-size: 25px;
+color: blue;
+text-align: center;
+}
+
+#yz{font-size: 15px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: italic;
+text-align: justify;
+color: red;
+}
+
+h2{
+margin-top: 100px;
+font-size: 30px;
+color: red;
+text-align: center;
+font-style: italic;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.ort{
+color: yellow;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-style: italic;
+font-size: 20px;
+text-align: justify;
+}
+
+h3{
+font-size: 25px;
+text-align: center;
+color: orange;
+}
+
+#md{
+color: darkorange;
+font-size: 20px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: italic;
+text-align: justify;
+}
+.logo{
+    position: fixed;
+    margin: 0px
+
+}
